@@ -1,0 +1,82 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cobb Lecture Hall",
+        "description": "Henry Ives Cobb, 1892"
+      },
+      "geometry": {
+        "coordinates": [-87.60093, 41.78896],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Laird Bell Law Quadrangle",
+        "description": "Eero Saarinen & Associates, 1960"
+      },
+      "geometry": {
+        "coordinates": [-87.599, 41.78506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reva and David Logan Center for the Arts",
+        "description": "Tod Williams Billie Tsien Architects, 2012"
+      },
+      "geometry": {
+        "coordinates": [-87.60356, 41.78536],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rockefeller Memorial Chapel",
+        "description": "Bertram Grosvenor Goodhue, 1928"
+      },
+      "geometry": {
+        "coordinates": [-87.59707, 41.78856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Joe and Rika Mansueto Library",
+        "description": "Murphy/Jahn, 2011"
+      },
+      "geometry": {
+        "coordinates": [-87.60086, 41.79196],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cummings Life Science Center",
+        "description": "I. W. Colburn with Schmidt, Garden & Erickson, and Harold H. Hellman, 1973"
+      },
+      "geometry": {
+        "coordinates": [-87.60276, 41.78986],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "School of Social Service Administration",
+        "description": "Ludwig Mies van der Rohe, 1965"
+      },
+      "geometry": {
+        "coordinates": [-87.60173, 41.78557],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
